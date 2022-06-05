@@ -5,7 +5,7 @@ Oi, me chamo Juliana! Sou novata em programação e estou cada dia mais apaixona
 
 Aqui estão algumas coisas sobre mim:
 
-- 🌱 Atualmente estou estudando JavaScript, HTML, CSS e Infraestrutura;
+- 🌱 Atualmente estou estudando JavaScript, HTML e CSS;
 - ✨Estou fazendo o curso Certified Tech Developer da Digital House;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 😄 Ela/Dela;
