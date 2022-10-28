@@ -3,10 +3,12 @@
 
 Aqui estão algumas coisas sobre mim:
 
-- 🌱 Atualmente estou estudando JavaScript, HTML e CSS;
-- ✨Estou fazendo o curso Certified Tech Developer da Digital House;
+- 🌱 Atualmente tenho contato diário com a stack: HTML5| CSS 3| JavaScript| SQL| MySQL Workbench| JAVA;
+- ✨ Estou fazendo o curso Certified Tech Developer da Digital House;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
+- 📧 Meu e-mail: j.novaisfb@gmail.com;
 - 😄 Ela/Dela;
+- 📚 Lendo: Desenvolvimento Ágil Limpo - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
 
 <div align="center">
