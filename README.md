@@ -9,7 +9,6 @@
 </p>
 
 ### ✨ Sobre mim:
-- 🌱 Atualmente tenho contato diário com a stack: HTML5| CSS 3| JavaScript| SQL| MySQL Workbench| JAVA;
 - ✨ Estou fazendo o curso Certified Tech Developer da Digital House;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 📧 Meu e-mail: j.novaisfb@gmail.com;
@@ -17,12 +16,11 @@
 - 📚 Lendo: Desenvolvimento Ágil Limpo - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
 
-
 ### ⚡️ Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que tenho contato diariamente:
+Estas são algumas das tecnologias e ferramentas que tenho contato:
 
-[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,java,aws,mysql,sql)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,bootstrap,java,aws,mysql,sql)](https://skillicons.dev)
 
 
 <div align="center">
