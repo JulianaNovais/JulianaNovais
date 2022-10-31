@@ -22,7 +22,7 @@
 
 Estas são algumas das tecnologias e ferramentas que tenho contato diariamente:
 
-[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,mysql,sql)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,java,aws,mysql,sql)](https://skillicons.dev)
 
 
 <div align="center">
