@@ -1,8 +1,14 @@
+<h1 align='center'>
+  Olá, eu sou a Juliana Novais!
+  <br/>
+  Bem vindo a minha página ♥
+</h1>
 
-## Oi, me chamo Juliana! Sou novata em programação e estou cada dia mais apaixonada pelo mundo da tecnologia!🚀
+<p align='center'>
+ Sou novata em programação e estou cada dia mais apaixonada pelo mundo da tecnologia!🚀
+</p>
 
-Aqui estão algumas coisas sobre mim:
-
+### ✨ Sobre mim:
 - 🌱 Atualmente tenho contato diário com a stack: HTML5| CSS 3| JavaScript| SQL| MySQL Workbench| JAVA;
 - ✨ Estou fazendo o curso Certified Tech Developer da Digital House;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
@@ -11,20 +17,19 @@ Aqui estão algumas coisas sobre mim:
 - 📚 Lendo: Desenvolvimento Ágil Limpo - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
 
+
+### ⚡️ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,mysql,sql)](https://skillicons.dev)
+
+
 <div align="center">
   <a href="https://github.com/JulianaNovais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaNovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaNovais&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-BOO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Ju-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ju-SQl" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- 
 </div>
 
 ##
