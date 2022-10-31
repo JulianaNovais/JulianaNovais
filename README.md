@@ -20,7 +20,7 @@
 
 ### ⚡️ Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que trabalho:
+Estas são algumas das tecnologias e ferramentas que tenho contato diariamente:
 
 [![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,mysql,sql)](https://skillicons.dev)
 
