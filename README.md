@@ -1,7 +1,7 @@
 <h1 align='center'>
   Olá, eu sou a Juliana Novais!
   <br/>
-  Bem vindo a minha página ♥
+  Bem vindo(a) a minha página 💜
 </h1>
 
 <p align='center'>
