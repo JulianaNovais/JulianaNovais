@@ -8,7 +8,7 @@
  Sou novata em programação e estou cada dia mais apaixonada pelo mundo da tecnologia!🚀
 </p>
 
-### ✨ Sobre mim:
+### ⭐ Sobre mim:
 - ✨ Estou fazendo o curso Certified Tech Developer da Digital House;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 📧 Meu e-mail: j.novaisfb@gmail.com;
@@ -16,7 +16,7 @@
 - 📚 Lendo: Desenvolvimento Ágil Limpo - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
 
-### ⚡️ Tecnologias:
+### ⭐ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que tenho contato:
 
@@ -30,7 +30,7 @@ Estas são algumas das tecnologias e ferramentas que tenho contato:
 
 </div>
 
-##
+### ⭐Minhas redes sociais:
 
 <div> 
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
