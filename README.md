@@ -20,7 +20,7 @@
 
 Estas são algumas das tecnologias e ferramentas que tenho contato:
 
-[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,bootstrap,java,aws,mysql,sql)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,html,css,javascript,bootstrap,java,aws,mysql,sql,linux)](https://skillicons.dev)
 
 
 <div align="center">
