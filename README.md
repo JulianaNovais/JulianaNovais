@@ -13,7 +13,7 @@
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 📧 Meu e-mail: j.novaisfb@gmail.com;
 - 😄 Ela/Dela;
-- 📚 Lendo: Desenvolvimento Ágil Limpo - Robert Cecil Martin; 
+- 📚 Lendo: Desenvolvimento Ágil Limpo: De volta às origens - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
 
 ### ⭐ Tecnologias:
