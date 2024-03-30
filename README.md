@@ -9,18 +9,12 @@
 </p>
 
 ### ⭐ Sobre mim:
-- ✨ Estou fazendo o curso Certified Tech Developer da Digital House;
+- ✨ Estou fazendo o curso de Análise e Desenvolvimento pela Universidade Cruzeiro do Sul;
 - 📫 Como chegar até mim: linkedin.com/in/junovais/
 - 📧 Meu e-mail: j.novaisfb@gmail.com;
 - 😄 Ela/Dela;
 - 📚 Lendo: Desenvolvimento Ágil Limpo: De volta às origens - Robert Cecil Martin; 
 - ⚡ Estou em transição de carreira.
-
-### ⭐ Tecnologias:
-
-Estas são algumas das tecnologias e ferramentas que tenho contato:
-
-[![Minhas Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,html,css,javascript,react,bootstrap,java,aws,mysql,sql)](https://skillicons.dev)
 
 
 <div align="center">
